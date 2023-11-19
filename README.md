@@ -8,7 +8,7 @@ bypass the [medium](https://www.google.com/search?q=medium&rlz=1C1CHBF_en-GBGB10
 
 1. Firstly, clone the present repository in your local machine; e.g. 
 ```PowerShell
-> git clone <remote-repository-link here>
+> git clone https://github.com/specialkapa/sneaky-reader.git
 ```
 
 2. Then launch `chrome`.
