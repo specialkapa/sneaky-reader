@@ -5,7 +5,7 @@ function openCachedUrl(url) {
 
 // Context menu for links in the page
 chrome.contextMenus.create({
-    title: "Bypass with Cache",
+    title: "Sneary-Reader",
     contexts: ["link"],
     onclick: function(info) {
         openCachedUrl(info.linkUrl);
