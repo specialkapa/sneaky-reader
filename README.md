@@ -2,8 +2,12 @@
 
 This repository contains a small `javascript` application that can be used as
 `chrome` extension. Specifically, this `chrome` extension allows the user to 
-bypass the [medium](https://www.google.com/search?q=medium&rlz=1C1CHBF_en-GBGB1047GB1047&oq=medium+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIQCAEQABiDARixAxiABBiKBTIHCAIQABiABDIGCAMQRRg8MgYIBBBFGEEyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgxMDU5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8) pay-wall. 
+bypass the pay-wall on several websites like 
 
+- [medium](https://www.google.com/search?q=medium&rlz=1C1CHBF_en-GBGB1047GB1047&oq=medium+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIQCAEQABiDARixAxiABBiKBTIHCAIQABiABDIGCAMQRRg8MgYIBBBFGEEyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgxMDU5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
+- [financial-times](https://www.ft.com/)
+- [south-china-morning-post](https://www.scmp.com/)
+  
 # Installation 
 
 1. Firstly, clone the present repository in your local machine; e.g. 
@@ -22,7 +26,7 @@ bypass the [medium](https://www.google.com/search?q=medium&rlz=1C1CHBF_en-GBGB10
 
 🎉 Congratz! Now you can do the following: 
 
-1. Fetch any medium article link, paste in your chrome url bar and finally click on *Sneaky-Reader* after clicking on the extensions icon. 
-2. In any web-page with a medium link embedded you can simply right click on the medium link and select *Sneaky-Read* form the drop down list.  
+1. Fetch the url of any article and/or post, paste in your `chrome` url bar and finally click on *Sneaky-Reader* after clicking on the extensions icon. 
+2. In any web-page with an article/post link embedded you can simply right click on the link and select *Sneaky-Read* from the drop down list.  
 
 ![](gifs/usage.gif "")
